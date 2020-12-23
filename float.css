@@ -15,7 +15,7 @@ header {
   height: 100px;
   margin: 20px 0px 20px 0px;
   float: up;
-  background-color: #07DBDD;
+  background-color: grey;
   border: 1px solid black;}
 
 
@@ -24,26 +24,26 @@ header {
   height: 401px;
   margin: 20px 20px 20px 0px;
   float: left;
-  background-color: #1C63CD;
+  background-color: grey;
   border: 1px solid black;}
 
 
 
 article {
-  width: 190px;
-  height: 129px;
+  width: 380px;
+  height: 258px;
   margin: 20px;
   float: left;
-  background-color: #1C63CD;
+  background-color: grey;
   border: 1px solid black;}
 
 
 #picture {
-  width: 190px;
-  height: 129px;
+  width: 380px;
+  height: 258px;
   margin: 20px;
   float: left;
-  background-color: #07DBDD;}
+  background-color: grey;}
 
 
 footer
