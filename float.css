@@ -50,6 +50,6 @@ footer
 { width: 100%;
   height: 50px;
   margin: 20px 0px 0px 0px;
-  float: down;
+  float: left;
   background-color: grey;
   border: 1px solid black;}
