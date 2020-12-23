@@ -11,18 +11,19 @@ float: left;
   background-color: 0A63A7;}
 
 
+header {
+  width: 1080px;
+  height: 100px;
+  background-color: #07DBDD;
+  border: 1px solid black;}
+
+
 #sidebar {
   width: 150px;
   height: 401px;
   background-color: #1C63CD;
   border: 1px solid black;}
 
-
-header {
-  width: 1080px;
-  height: 100px;
-  background-color: #07DBDD;
-  border: 1px solid black;}
 
 
 article {
