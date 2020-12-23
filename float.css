@@ -41,7 +41,7 @@ article {
 #picture {
   width: 380px;
   height: 258px;
-  margin: 20px;
+  margin: 20px 0px 20px 20px;
   float: left;
   background-color: grey;}
 
