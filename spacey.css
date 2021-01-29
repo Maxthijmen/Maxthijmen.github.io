@@ -15,7 +15,7 @@ header {
   height: 100px;
   margin: 20px 0px 20px 20px;
   float: left;
-  background-color: grey;
+  background-color: #00152D;
   border: 1px solid black;}
 
 
@@ -51,5 +51,5 @@ footer
   height: 50px;
   margin: 20px 0px 0px 0px;
   float: left;
-  background-color: grey;
+  background-color: #00152D;
   border: 1px solid black;}
