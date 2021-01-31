@@ -6,7 +6,7 @@ margin: 0em;
 body
 {
  background-image: url("sterren.jpg");
- background-color: #cccccc;
+ background-color: #3A2A87;
 padding: 35px 0px 35px 0px;
 }
 
@@ -188,7 +188,7 @@ position: relative;
 */
 width: 82%;
 border: solid 7px #0C0B35;
-background-color: #E5E5E6;
+background-color: #3A2A87;
 margin: 0 auto;
 }
 
