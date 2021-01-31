@@ -307,6 +307,7 @@ background: #0B032E url('images/menuactive.gif') repeat-x top left;
 #menubottom
 {
 background: #fff url('images/border1.gif') repeat-x;
+color #130947;
 height: 14px;
 margin-bottom: 1.5em;
 }
